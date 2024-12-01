@@ -56,7 +56,7 @@ export const Projects = () => {
       title: "Safety Gear Detection System",
       description: "Developed a safety gear recommendation system based on safety guidelines and user needs.",
       imgUrl: "https://th.bing.com/th/id/OIG3.TzIVKI5.aO6LbKHnOSpZ?w=1024&h=1024&rs=1&pid=ImgDetMain",
-      sourceUrl: "https://github.com/user/repo1"
+      sourceUrl: "https://github.com/akshayajanarthan/Safety-Gear-Detection-System"
     },
     {
       title: "Spammy",
@@ -83,7 +83,7 @@ export const Projects = () => {
       title: "Power BI Models",
       description: "Demonstrating expertise in crafting insightful Power BI models, delivering data-driven dashboards and actionable visualizations.",
       imgUrl: "https://th.bing.com/th/id/OIG4.efxUDjqgDki_SBFuNcu1?pid=ImgGn",
-      sourceUrl: "https://github.com/user/repo3"
+      sourceUrl: "https://github.com/akshayajanarthan/Power-BI-Model"
     },
   ];
 
